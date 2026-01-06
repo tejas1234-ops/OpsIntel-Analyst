@@ -1,0 +1,5 @@
+{
+  "name": "OpsIntel Analyst",
+  "description": "An AI-powered operational intelligence dashboard that analyzes IT workflow data to identify micro-inefficiencies, SLA breaches, and execution bottlenecks using the Gemini 3 Pro model.",
+  "requestFramePermissions": []
+}
